@@ -20,4 +20,4 @@ The extension was built using standard Chrome Extension APIs and developed entir
 # output
 <img width="780" height="648" alt="Image" src="https://github.com/user-attachments/assets/4ff5cefb-20b5-4c43-993e-e3abe3a7aff5" />
 
-<!-- Uploading "401670870-5bb15da0-0825-4636-aeed-1a56f3877b54.mp4"... -->
+
