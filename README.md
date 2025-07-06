@@ -21,3 +21,6 @@ The extension was built using standard Chrome Extension APIs and developed entir
 <img width="780" height="648" alt="Image" src="https://github.com/user-attachments/assets/4ff5cefb-20b5-4c43-993e-e3abe3a7aff5" />
 
 
+<img width="554" height="873" alt="Image" src="https://github.com/user-attachments/assets/03262b76-d943-4c00-b3c0-da9d22f244aa" />
+
+
